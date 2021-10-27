@@ -1,0 +1,28 @@
+.idea-principal{
+    color: rgba(0,0,255,0.5); 
+    font-size: 30px; 
+    padding: 10px 20px;
+}
+
+#software{
+    color:red;
+}
+
+.azul{
+    color: blue;
+}
+.red{
+    color: red;
+}
+
+.color-fondo {
+    background-color: rgba(0,255,0,0.5);
+}
+
+*{
+    font-family: 'Karla', sans-serif;
+}
+
+ol li p{
+    background-color: rgba(229, 255, 0, 0.5);
+}
